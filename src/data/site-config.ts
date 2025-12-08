@@ -8,9 +8,9 @@ const siteConfig: SiteConfig = {
         src: avatar,
         alt: 'Ethan Donovan'
     },
-    title: 'Dante',
+    title: 'Daniel Gallo',
     subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    description: 'My professional portfolio',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -66,8 +66,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        title: 'Welcome to My Corner of the Web!',
+        text: "I'm **Daniel Gallo**, certified Data Analyst from TripleTen Bootcamp, with C1-level English proficiency. Specialized in Machine Learning, Python (Pandas, Scikit-learn, NumPy), SQL, and visualization tools.\nMy experience in management control and financial analysis has provided me with a solid understanding of business metrics, budgets, KPIs, and strategic decision-making. I combine technical skills in data science with expertise in financial interpretation, enabling me to develop predictive models that directly impact profitability and operational efficiency. I am seeking an opportunity as a Financial Specialist where I can leverage my financial experience along with the skills acquired in data science.\n\n",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
