@@ -5,8 +5,8 @@ import type { SiteConfig } from '../types';
 const siteConfig: SiteConfig = {
     website: 'https://example.com',
     avatar: {
-        src: avatar,
-        alt: 'Ethan Donovan'
+        src: Daniel_avatar_portfolio,
+        alt: 'Daniel Gallo'
     },
     title: 'Daniel Gallo',
     subtitle: 'My professional portfolio',
