@@ -9,7 +9,7 @@ const siteConfig: SiteConfig = {
         alt: 'Ethan Donovan'
     },
     title: 'Daniel Gallo',
-    subtitle: 'Minimal Astro.js theme',
+    subtitle: 'My professional portfolio',
     description: 'My professional portfolio',
     image: {
         src: '/dante-preview.jpg',
