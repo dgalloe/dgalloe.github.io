@@ -66,7 +66,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Welcome to My Corner of the Web!',
+        title: 'Welcome to My Professional Portfolio!',
         text: "I'm **Daniel Gallo**, certified Data Analyst from TripleTen Bootcamp, with C1-level English proficiency. Specialized in Machine Learning, Python (Pandas, Scikit-learn, NumPy), SQL, and visualization tools.\nMy experience in management control and financial analysis has provided me with a solid understanding of business metrics, budgets, KPIs, and strategic decision-making. I combine technical skills in data science with expertise in financial interpretation, enabling me to develop predictive models that directly impact profitability and operational efficiency. I am seeking an opportunity as a Financial Specialist where I can leverage my financial experience along with the skills acquired in data science.\n\n",
         image: {
             src: hero,
