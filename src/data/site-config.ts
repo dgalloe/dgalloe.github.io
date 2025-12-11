@@ -13,7 +13,7 @@ const siteConfig: SiteConfig = {
     description: 'My professional portfolio',
     image: {
         src: '/IMG_20251207_110143 sin fondo.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'Daniel Gallo'
     },
     headerNavLinks: [
         {
