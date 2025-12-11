@@ -1,5 +1,5 @@
 import Daniel_avatar_portfolio from '../assets/images/Daniel_avatar_portfolio.jpg';
-import hero from '../assets/images/hero.jpg';
+import IMG_20251207_110143 sin fondo from '../assets/images/IMG_20251207_110143 sin fondo.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
@@ -12,7 +12,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'My professional portfolio',
     description: 'My professional portfolio',
     image: {
-        src: '/dante-preview.jpg',
+        src: '/IMG_20251207_110143 sin fondo.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [
