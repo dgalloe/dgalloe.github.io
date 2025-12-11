@@ -3,7 +3,7 @@ import daniel_main from '../assets/images/daniel_main.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://dgalloe.github.io',
     avatar: {
         src: Daniel_avatar_portfolio,
         alt: 'Daniel Gallo'
@@ -12,7 +12,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'My professional portfolio',
     description: 'My professional portfolio',
     image: {
-        src: '/daniel_main.jpg',
+        src: daniel_main,
         alt: 'Daniel Gallo'
     },
     headerNavLinks: [
@@ -53,15 +53,15 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Linkedin',
-            href: 'www.linkedin.com/in/danielgalloecheverri-financial'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/danielgalloecheverri-financial'
         }
     ],
     hero: {
         title: 'Welcome to My Professional Portfolio!',
-        text: "I'm **Daniel Gallo**, certified Data Analyst from TripleTen Bootcamp, with C1-level English proficiency. Specialized in Machine Learning, Python (Pandas, Scikit-learn, NumPy), SQL, and visualization tools.\nMy experience in management control and financial analysis has provided me with a solid understanding of business metrics, budgets, KPIs, and strategic decision-making. I combine technical skills in data science with expertise in financial interpretation, enabling me to develop predictive models that directly impact profitability and operational efficiency. I am seeking an opportunity as a Financial Specialist where I can leverage my financial experience along with the skills acquired in data science.\n\n",
+        text: `I'm **Daniel Gallo**, a certified Data Analyst from TripleTen Bootcamp with C1-level English proficiency. I specialize in Machine Learning and Python (Pandas, Scikit-learn, NumPy), and work regularly with SQL. I enjoy turning data into actionable insights and building reproducible analysis pipelines.`,
         image: {
-            src: hero,
+            src: daniel_main,
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
