@@ -72,7 +72,9 @@ const siteConfig: SiteConfig = {
         }
     },
     postsPerPage: 8,
-    projectsPerPage: 8
+    projectsPerPage: 8,
+    // new toggle: set to false to hide the Writing/Blog area site-wide
+    showWriting: false
 };
 
 export default siteConfig;
