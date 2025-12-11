@@ -1,5 +1,5 @@
 import Daniel_avatar_portfolio from '../assets/images/Daniel_avatar_portfolio.jpg';
-import IMG_20251207_110143 sin fondo from '../assets/images/IMG_20251207_110143 sin fondo.jpg';
+import daniel_main from '../assets/images/daniel_main.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
@@ -12,7 +12,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'My professional portfolio',
     description: 'My professional portfolio',
     image: {
-        src: '/IMG_20251207_110143 sin fondo.jpg',
+        src: '/daniel_main.jpg',
         alt: 'Daniel Gallo'
     },
     headerNavLinks: [
